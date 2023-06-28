@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background-color: rgb(109, 109, 227);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    /*width: 70%; */
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+header{
+    background-color: rgb(94, 199, 228);
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+}
